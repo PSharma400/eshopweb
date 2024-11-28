@@ -18,3 +18,5 @@
     // feel free to disable more low value rules in here; get rule name from the error message.
     // the purpose of the linter is to catch significant issues like broken links.
 }
+
+#comment
